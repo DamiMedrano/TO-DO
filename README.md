@@ -1,6 +1,6 @@
 <h3>
   # TO-DO <br>
-  Just a sample of a login page, background is video when on desktop view.
+  Colorful to do list
 <h3>
 
 <h2>Desktop Previews<h2>
